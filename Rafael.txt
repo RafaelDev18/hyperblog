@@ -4,6 +4,8 @@ tengo 30 años y vivo en Cali, Colombia.
 
 acaba de terminar misison tic muy bien 
 
-hoy esta en busqueda de su empreo como development
+hoy esta en busqueda de su empleo como development
 
 ya hizo su primer desarrollo mascota feliz
+
+Hola soy John Test y soy el usuario de prueba para este curso de platzi
